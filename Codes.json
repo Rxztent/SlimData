@@ -1,0 +1,12 @@
+{
+  "Debug": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "1000000"
+  },
+  "V1": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "1000000"
+  }
+}
